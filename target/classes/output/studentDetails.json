@@ -1,0 +1,15 @@
+{
+  "studentId": "001",
+  "studentName": "Smith",
+  "isStudentPassed": false,
+  "coursesRegistered": [
+    {
+      "courseName": "Machine learning",
+      "courseMarks": 80
+    },
+    {
+      "courseName": "Advance Programming Practices",
+      "courseMarks": 95
+    }
+  ]
+}
