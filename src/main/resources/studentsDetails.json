@@ -1,0 +1,77 @@
+[
+  {
+    "studentId": 100,
+    "studentName": "student1",
+    "isStudentPassed": false,
+    "coursesRegistered": [
+      {
+        "courseName": "Maths",
+        "courseMarks": 10
+      },
+      {
+        "courseName": "English",
+        "courseMarks": 20
+      }
+    ]
+  },
+  {
+    "studentId": 200,
+    "studentName": "student2",
+    "isStudentPassed": true,
+    "coursesRegistered": [
+      {
+        "courseName": "Maths",
+        "courseMarks": 50
+      },
+      {
+        "courseName": "English",
+        "courseMarks": 60
+      }
+    ]
+  },
+  {
+    "studentId": 300,
+    "studentName": "student3",
+    "isStudentPassed": true,
+    "coursesRegistered": [
+      {
+        "courseName": "Maths",
+        "courseMarks": 70
+      },
+      {
+        "courseName": "English",
+        "courseMarks": 80
+      }
+    ]
+  },
+  {
+    "studentId": 400,
+    "studentName": "student4",
+    "isStudentPassed": true,
+    "coursesRegistered": [
+      {
+        "courseName": "Maths",
+        "courseMarks": 90
+      },
+      {
+        "courseName": "English",
+        "courseMarks": 100
+      }
+    ]
+  },
+  {
+    "studentId": 500,
+    "studentName": "student5",
+    "isStudentPassed": false,
+    "coursesRegistered": [
+      {
+        "courseName": "Maths",
+        "courseMarks": 5
+      },
+      {
+        "courseName": "English",
+        "courseMarks": 10
+      }
+    ]
+  }
+]

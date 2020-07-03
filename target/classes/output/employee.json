@@ -1,0 +1,16 @@
+{
+  "name": "Manan",
+  "age": 25,
+  "position": [
+    "Java Developer",
+    "Software Developer"
+  ],
+  "skills": [
+    "java",
+    "python"
+  ],
+  "salary": {
+    "2019": 15,
+    "2020": 20
+  }
+}

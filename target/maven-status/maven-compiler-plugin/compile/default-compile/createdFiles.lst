@@ -1,0 +1,11 @@
+model\StudentDetail.class
+util\Constants.class
+gson_basic\GsonStreaming.class
+gson_basic\GsonTreeModel.class
+model\Course.class
+gson_advanced\GsonEmployee.class
+model\Student.class
+gson_basic\GsonDataBinding.class
+gson_advanced\GsonStudentDetails.class
+model\Employee.class
+gson_advanced\GsonEmployee$1.class
